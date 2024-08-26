@@ -10,4 +10,4 @@ Interface:
 
 A aplicação consiste apenas de um arquivo (.csv) que é aberto com fopen() e tem seu parse feito através de floatval()
 
-Toda a lógica, simples, por trás do programa foi feita por mim, visando maximizar o máximo possível meu aprendizado com esse exercício.
+Toda a lógica, simples, por trás do programa foi feita por mim, visando maximizar o meu aprendizado com esse exercício.
