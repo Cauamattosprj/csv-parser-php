@@ -8,4 +8,6 @@ Pude aprender melhor a trabalhar com arquivos externos (CSV), usar funções com
 Interface:
 ![image](https://github.com/user-attachments/assets/741da731-a6bf-4de2-8892-d0586e368287)
 
+A aplicação consiste apenas de um arquivo (.csv) que é aberto com fopen() e tem seu parse feito através de floatval()
+
 Toda a lógica, simples, por trás do programa foi feita por mim, visando maximizar o máximo possível meu aprendizado com esse exercício.
