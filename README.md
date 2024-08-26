@@ -5,3 +5,7 @@ Exercício proposto pelo curso: https://www.youtube.com/playlist?list=PLr3d3QYzk
 
 Pude aprender melhor a trabalhar com arquivos externos (CSV), usar funções como fgetcsv(), floatval(), fopen(), str_replace(), assim como declaração de constantes e utilização das mesmas em outros arquivos.
 
+Interface:
+![image](https://github.com/user-attachments/assets/741da731-a6bf-4de2-8892-d0586e368287)
+
+Toda a lógica, simples, por trás do programa foi feita por mim, visando maximizar o máximo possível meu aprendizado com esse exercício.
